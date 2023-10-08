@@ -1,5 +1,3 @@
-# Programa que determina si una palabra tiene 8 mas de ocho letras o menos de 4
-
 #Se inicializan variables
 cont= 0
 temp=0
