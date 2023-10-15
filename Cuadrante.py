@@ -1,7 +1,7 @@
 #Se inicializan las variable cont
 cont=0
 
-#Se genera inicializa una lista
+#Se inicializa una lista
 coordenadas= "Eje X","Eje Y","Cuadrante I","Cuadrante II","Cuadrante III","Cuadrante IV"
 
 #Se genera un ciclo while
